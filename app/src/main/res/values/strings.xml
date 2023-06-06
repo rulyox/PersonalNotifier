@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Personal Notifier</string>
+
+    <string name="notification_channel_name">Notifications</string>
+    <string name="notification_channel_description">Received notifications.</string>
+
+    <string name="text_firebase_token">Firebase Token</string>
+
+    <string name="button_close">close</string>
+    <string name="button_copy">copy</string>
+</resources>
